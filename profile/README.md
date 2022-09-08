@@ -7,8 +7,8 @@ This site contains all of the files you'll need for the practical classes on the
 
 Each class repository contains:
 
--The instructions for that class
--A template project that you can use to get started
+- The instructions for that class
+- A template project that you can use to get started
 
 The best way to access the projects is to copy them into your personal GitHub account as a repository and then clone this onto the computer you're working on. To do this, click the green "Use this template" button and follow the instructions GitHub provides.
 
