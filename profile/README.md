@@ -3,9 +3,7 @@
 
 Welcome to the Media Production for Interactive Environments GitHub site.
 
-This site contains all of the files you'll need for the practical classes on the module, each in its own git repository.
-
-Each class repository contains:
+This site contains all of the files you'll need for the practical classes on the module, each in its own git repository. Each class repository contains:
 
 - The instructions for that class
 - A template project that you can use to get started
